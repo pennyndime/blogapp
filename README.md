@@ -8,6 +8,6 @@ Project goal was to understand what node.js is and how the internet works. Good 
 -Javascript offers node.js access to many useful libraries
 -Node.js provides us thge ability tp share code between browser and server since they are both Javascript code.
 
-Also an intro to to NPM and Express. Learned how to install third partyy custom packages using npm and how  to use static files to make CSS and JavaScript files avvailable to the HTML client files
+Also an intro to to NPM and Express. Learned how to install third party custom packages using npm and how  to use static files to make CSS and JavaScript files avvailable to the HTML client files
 
 NPM is an official helper for node projects that comes along with node when we install it
